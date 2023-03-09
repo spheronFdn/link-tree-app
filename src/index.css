@@ -1,0 +1,20 @@
+@font-face {
+  font-family: gilroy;
+  src: url(assets/fonts/Gilroy-Light.otf);
+}
+
+body {
+  margin: 0;
+  font-family: gilroy;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+}
