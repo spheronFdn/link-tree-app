@@ -15,7 +15,7 @@ const config = {
   "links": [
     {
       "key": "official",
-      "label": "Official Landing Page",
+      "label": "Official Website",
       "iconUrl": Official,
       "redirectUrl": "https://spheron.network/",
     },
