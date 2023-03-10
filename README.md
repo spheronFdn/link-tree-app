@@ -1,52 +1,34 @@
-# link-tree-app
-Link Tree App powered by Spheron
+# Custom Linktree Utilising Web3 Infra  :muscle: 
+Now power your marketing and branding with your custom domain utilising Spheron.
 
-## Config for the App
-1. Go to `config.ts` file which is present in `/src` directory.
-2. Update the relevant information such as title, description, social media URLs etc.
-3. Run the App to see the changes.
-## Commands for running the Link Tree App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Why on Web3 Infrastructure ?
 
-## Available Scripts
+Web3 Infrastructure comes with its pros on top of what you get on Web2. 
+Some of the examples are, your links generated here will never die if you keep your ipfs hash handy somewhere safe and any one node has pinned it.
 
-In the project directory, you can run:
+## Why use Spheron?
+You can use any app to deploy this on the decentralised network but 
+Spheron makes the entire process of pinning your hash and backing up for a longer duration of time makes much easier. Apart from it, users can also easily attach their domain via Spheron and serve millions with our best-in-class CDN build on top of the Web3 Infrastructure layer.
 
-### `npm start`
+## How to launch ?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+There are multiple way's to launch your own custom domain based linktree app for your self utilising Spheron. 
+The best way to achieve the same is via forking or cloning to your local and launching it in few lines or few clicks depending on what you like the most. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Follow these steps to launch via Spheron UI:
 
-### `npm test`
+- Fork this repo
+- Open https://app.spheron.network
+- Install Github Spheron App if you have not yet and give the access to repo
+- Choose your favourite Decentralised Network 
+- Hit on a Deploy 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Follow this steps to launch it via Spheron CLI:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Coming Soon.........
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Support Spheron 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you loved utilising this template, please do share it your friends over social media tagging Spheron and you can also add powered by Spheron template in your custom link.
+This will help us to grow and expand Web3 Infra presence
