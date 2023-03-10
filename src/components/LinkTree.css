@@ -1,5 +1,7 @@
 .linktree-container {
   background-color: #141416;
+  min-height: 100vh;
+  width: 100%;
 }
 
 header {
@@ -11,7 +13,7 @@ header {
   background-image: url('../assets/blue-bg.png');
   background-position: center;
   background-repeat: no-repeat;
-  padding-top: 70px;
+  padding: 70px 0 54px;
 }
 
 .linktree-desc {
@@ -20,7 +22,7 @@ header {
 
 .linktree-main {
   width: 732px;
-  margin: 54px auto 100px;
+  margin: 0px auto 100px;
   background: rgba(255, 255, 255, 0.04);
   border-radius: 8px;
   display: flex;
@@ -71,7 +73,7 @@ footer {
 }
 
 @media (max-width: 767px) {
-  .linktree-main {
+  .linktree-main, .linktree-desc {
     width: 80%;
   }
 }
