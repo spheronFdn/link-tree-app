@@ -41,7 +41,7 @@ const LinkTree = () => {
       </section>
       <footer>
         <div className="linktree-footer">
-          <span className="linktree-powered-text">Powered By: </span>
+          <span className="linktree-powered-text">Powered By </span>
           <span className="sph-logo">
             <img src={LogoIcon} alt="spheron logo" height="25px" />
           </span>
