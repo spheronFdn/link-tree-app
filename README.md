@@ -15,7 +15,7 @@ Spheron makes the entire process of pinning your hash and backing up for a longe
 There are multiple way's to launch your own custom domain based linktree app for your self utilising Spheron. 
 The best way to achieve the same is via forking or cloning to your local and launching it in few lines or few clicks depending on what you like the most. 
 
-Follow these steps to launch via Spheron UI:
+### Follow these steps to launch via Spheron UI:
 
 - Fork this repo
 - Open https://app.spheron.network
@@ -24,6 +24,6 @@ Follow these steps to launch via Spheron UI:
 - Hit on a Deploy 
 
 
-Follow this steps to launch it via Spheron CLI:
+### Follow this steps to launch it via Spheron CLI:
 
 Coming Soon.........
