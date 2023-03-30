@@ -26,6 +26,12 @@ const config = {
       iconUrl: Twitter,
       redirectUrl: "https://twitter.com/SpheronHQ",
     },
+      {
+      key: "twitter",
+      label: "Twitter Foundation",
+      iconUrl: Twitter,
+      redirectUrl: "https://twitter.com/SpheronFDN",
+    },
     {
       key: "linkedin",
       label: "LinkedIn",
