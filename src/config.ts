@@ -6,6 +6,7 @@ import LinkedIn from "./assets/icons/linkedin.svg";
 import Youtube from "./assets/icons/youtube.svg";
 import Discord from "./assets/icons/discord.svg";
 import GitHub from "./assets/icons/github.svg";
+import Email from "./assets/icons/email.svg";
 
 const config = {
   logoUrl: AppLogo,
@@ -55,6 +56,12 @@ const config = {
       label: "GitHub",
       iconUrl: GitHub,
       redirectUrl: "https://github.com/spheronFdn/",
+    },
+    {
+      key: "email",
+      label: "Email Support",
+      iconUrl: Email,
+      redirectUrl: "mailto:info@spheron.network",
     },
   ],
 };
