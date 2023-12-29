@@ -5,6 +5,8 @@ import LinkedIn from "./assets/icons/linkedin.svg";
 // import Medium from "./assets/icons/medium.svg";
 import Youtube from "./assets/icons/youtube.svg";
 import Discord from "./assets/icons/discord.svg";
+import Instagram from "./assets/icons/instagram.svg";
+import Telegram from "./assets/icons/telegram.svg";
 import GitHub from "./assets/icons/github.svg";
 import Email from "./assets/icons/email.svg";
 
@@ -50,6 +52,18 @@ const config = {
       label: "Discord",
       iconUrl: Discord,
       redirectUrl: "https://discord.com/invite/ahxuCtm",
+    },
+    {
+      key: "instagram",
+      label: "Instagram",
+      iconUrl: Instagram,
+      redirectUrl: "https://www.instagram.com/spheronhq/",
+    },
+    {
+      key: "telegram",
+      label: "Telegram",
+      iconUrl: Telegram,
+      redirectUrl: "https://t.me/spheron",
     },
     {
       key: "github",
